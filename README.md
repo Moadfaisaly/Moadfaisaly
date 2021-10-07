@@ -3,7 +3,6 @@
 
 <img align='right' src='https://github.com/Moadfaisaly/tc/blob/main/otara.gif' width='450"'>&nbsp;
 
- <br>
 My name is <strong>Moad Faisaly</strong>
 I was born in libya, I live in Gerona, & i'm 21y, I love everything about technology. actually  I've always been curious to see how everything worked, and i still it 💭 .
 &nbsp;
