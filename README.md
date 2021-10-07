@@ -1,5 +1,5 @@
 
-# It’s-a Me, Mario! <img src="https://cdn.glitch.me/ad8ef14a-2e7e-4fd0-9fb0-9b4f6fe3d61c%2F999b2183c19ca9288a6995c4d7bb0b3e_w200.gif?v=1633677600723">
+# It’s-a Me, Mario! <img src="https://cdn.glitch.me/ad8ef14a-2e7e-4fd0-9fb0-9b4f6fe3d61c%2F999b2183c19ca9288a6995c4d7bb0b3e_w200.gif?v=1633677600723" width="60px">
 
 <img align='right' src='https://github.com/Moadfaisaly/tc/blob/main/otara.gif' width='450"'>&nbsp;
 
