@@ -53,7 +53,7 @@ I was born in libya, I live in Gerona, & i'm 21y, I love everything about techno
 
 
 
- Twitter: [@MoadFaisaly](https://www.twitter.com) 
+ Twitter: [@MoadFaisaly](https://twitter.com/gddo_r) 
  <br>Discord: [@A Silent Voice#7537](https://www.twitter.com) 
 
  
