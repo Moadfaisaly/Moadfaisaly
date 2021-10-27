@@ -1,7 +1,7 @@
 
 # <img src="https://cdn.glitch.me/ad8ef14a-2e7e-4fd0-9fb0-9b4f6fe3d61c%2FpfEN7sb.gif?v=1633752111875" width="80px">It’s-a Me, Mario! <img src="https://cdn.glitch.me/ad8ef14a-2e7e-4fd0-9fb0-9b4f6fe3d61c%2FpfEN7sb.gif?v=1633752111875" width="80px">
 
-<img align='right' src='https://github.com/Moadfaisaly/tc/blob/main/otara.gif' width='450"'>&nbsp;
+<img align='right' src='https://cdn.glitch.me/48bdde52-e677-44eb-9abc-b0c0f6bc2e23%2Fearg.png?v=1635331026395' width='450"'>&nbsp;
 
 My name is <strong>Moad Faisaly</strong>
 I was born in libya, I live in Girona, & i'm 21y, I love everything about technology. actually  I've always been curious to see how everything worked, and i still it 💭.
