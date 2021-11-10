@@ -6,7 +6,7 @@
 My name is <strong>Moad Faisaly</strong>
 I was born in libya, I live in Girona, & i'm 21y, I love everything about technology. actually  I've always been curious to see how everything worked, and i still it 💭.
 &nbsp;
-<br>・ ♦️ Full-Stack web Developer [www.MoadFaisaly.me](https://www.MoadFaisaly.me)
+<br>・ ♦️ Full-Stack web Developer.
 <br>・ 🗼 I currently studying on [University of Girona | UDG](https://www.udg.edu/ca/) Business administration.
 
 
