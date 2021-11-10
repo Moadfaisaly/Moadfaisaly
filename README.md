@@ -26,9 +26,6 @@ I was born in libya, I live in Girona, & i'm 21y, I love everything about techno
 &nbsp;
 <img height="26" title="React" alt="React" src="https://cdn.glitch.me/ad8ef14a-2e7e-4fd0-9fb0-9b4f6fe3d61c%2Fpngfind.com-react-logo-png-6854970.png?v=1633665516330"> &nbsp;
 
-<img height="26" title="php" alt="php" src="https://cdn.glitch.me/ad8ef14a-2e7e-4fd0-9fb0-9b4f6fe3d61c%2Fpngegg(7).png?v=1633665310313"> 
-&nbsp;
-
 <!-----------------BACKEND--------------->
 ##  Back | End <img src="https://cdn.glitch.me/ad8ef14a-2e7e-4fd0-9fb0-9b4f6fe3d61c%2F35.jpg?v=1633674261445" width="20px"><br>
 <img height="26" title="NodeJS" alt="NodeJS" src="https://cdn.glitch.me/ad8ef14a-2e7e-4fd0-9fb0-9b4f6fe3d61c%2Fpngegg%20(7).png?v=1633666745666"> &nbsp;
@@ -37,8 +34,8 @@ I was born in libya, I live in Girona, & i'm 21y, I love everything about techno
 <img height="26" title="CSharp" alt="CSharp" src="https://cdn.glitch.me/ad8ef14a-2e7e-4fd0-9fb0-9b4f6fe3d61c%2Fpngegg%20(8).png?v=1633667546080"> &nbsp;
 <img height="26" title="MongoDB" alt="MongoDB" src="https://cdn.glitch.me/ad8ef14a-2e7e-4fd0-9fb0-9b4f6fe3d61c%2F%D8%A9%D8%AE%D9%8A%D9%89%D9%84%D8%AE.png?v=1633667825467"> &nbsp;
 <img height="26" title="Postgres" alt="Postgres" src="https://cdn.glitch.me/ad8ef14a-2e7e-4fd0-9fb0-9b4f6fe3d61c%2Fpngeg%D8%A8g%20(9).png?v=1633668096731"> &nbsp;
-
-
+&nbsp;
+<img height="26" title="php" alt="php" src="https://cdn.glitch.me/5386e45e-bbca-4b13-93bd-2f426d9b673d%2Fad8ef14a-2e7e-4fd0-9fb0-9b4f6fe3d61c_pngegg(7).png?v=1636545990434"> 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moadfaisaly&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
